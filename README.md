@@ -1,4 +1,4 @@
-## Hi there 👋 I'm ```Mahadi Mohammad``` from _Dhaka, Bangladesh_.
+## Hi there 👋 I'm ```Mahadi Mohammad```
 
 ### ```Software Engineer (Android)```
 - I like to build native android apps with some great UI/UX and performance.

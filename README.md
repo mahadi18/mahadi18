@@ -1,6 +1,6 @@
-## Hi there 👋 I'm ```Mahadi Mohammad```
+### Hi there 👋 
 
-### ```Software Engineer (Android)```
+## I'm ```Mahadi Mohammad```, ```Software Engineer (Android)```
 - I like to build native android apps with some great UI/UX and performance.
 - Currently working at **Orchid Tech Studio**.
 - I work with ```Android Studio``` ```Java``` ```Kotlin``` ```Git```

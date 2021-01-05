@@ -2,7 +2,6 @@
 
 ## I'm ```Mahadi Mohammad```, ```Software Engineer (Android)```
 - I like to build native android apps with some great UI/UX and performance.
-- Currently working at **Orchid Tech Studio**.
 - I work with ```Android Studio``` ```Java``` ```Kotlin``` ```Git```
 - Currently learning about: **Flutter**, **Kotlin Coroutine**, **Code Optimization**
 - Have some mediocre knowledge on ```Laravel``` ```PHP``` 

@@ -1,16 +1,42 @@
-### Hi there 👋 
+<h1 align="center">Hi 👋, I'm ASM Al Zihadi</h1>
+<h3 align="center">A passionate Android Software Engineer</h3>
 
-## I'm ```ASM Al Zihadi```, ```Software Engineer (Android)```
-- I like to build native android apps with some great UI/UX and performance.
-- I work with ```Android Studio``` ```Kotlin``` ```Java``` ```Git```
-- Currently learning about: **Flutter**, **Kotlin Coroutine**, **Code Optimization**
-- Have some mediocre knowledge on ```Laravel``` ```PHP``` 
-- Reach me [@Al_Zihadi(https://twitter.com/Al_Zihadi)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi18&label=Profile%20views&color=0e75b6&style=flat" alt="mahadi18" /> </p>
+
+<p align="left"> <a href="https://twitter.com/asm_alzihadi" target="blank"><img src="https://img.shields.io/twitter/follow/asm_alzihadi?logo=twitter&style=for-the-badge" alt="asm_alzihadi" /></a> </p>
+
+- 🔭 I’m currently working on [Tru Power Data](https://apps.apple.com/app/tru-power-data/id6446037555)
+
+- 🌱 I’m currently learning **Machine Learning & Prompt Engineering**
+
+- 👯 I’m looking to collaborate on **Saas Projects**
+
+- 👨‍💻 All of my projects are available at [https://alzihadi.github.io/](https://alzihadi.github.io/)
+
+- 📝 I regularly write articles on [https://mahadis.wordpress.com/](https://mahadis.wordpress.com/)
+
+- 💬 Ask me about **Android, Kotlin and Flutter**
+
+- 📫 How to reach me **asm.alzihadi@gmail.com**
+
+- 📄 Know about my experiences [https://alzihadi.github.io/assets/images/ASM_Al_Zihadi_CV.pdf](https://alzihadi.github.io/assets/images/ASM_Al_Zihadi_CV.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/asm_alzihadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asm_alzihadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asm-al-zihadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asm-al-zihadi" height="30" width="40" /></a>
+<a href="https://fb.com/asm.a1zihadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asm.a1zihadi" height="30" width="40" /></a>
+<a href="https://instagram.com/asm.alzihadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asm.alzihadi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahadi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahadi6" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi18&show_icons=true&locale=en&layout=compact" alt="mahadi18" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadi18&show_icons=true&locale=en" alt="mahadi18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi18&" alt="mahadi18" /></p>
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahadi18&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-I’ve always sought out opportunities and challenges that are meaningful to me. I've never stopped engaging my passion to help others and solve problems.
-
-As a mobile app developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.
